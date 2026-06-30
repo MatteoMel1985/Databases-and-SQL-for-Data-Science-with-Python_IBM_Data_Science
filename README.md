@@ -44,6 +44,7 @@ This notebook expands the real-world analysis workflow by using the Chicago Publ
 <table align="center">
 <tr>
 <td>
+<i>
 
 * Python
 * SQLite
@@ -54,6 +55,7 @@ This notebook expands the real-world analysis workflow by using the Chicago Publ
 * seaborn
 * JupyterLab
 
+</i>
 </td>
 </tr>
 </table>
