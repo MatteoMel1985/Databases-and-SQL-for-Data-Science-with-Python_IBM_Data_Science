@@ -41,6 +41,10 @@ This notebook expands the real-world analysis workflow by using the Chicago Publ
 
 <h1 align="center"><i>Technologies Used</i></h1>
 
+<table align="center">
+<tr>
+<td>
+
 * Python
 * SQLite
 * `sqlite3`
@@ -50,16 +54,9 @@ This notebook expands the real-world analysis workflow by using the Chicago Publ
 * seaborn
 * JupyterLab
 
-<h1 align="center"><i>Repository Structure</i></h1>
-
-```text
-.
-├── Week4_Insert_Update_SQLite.ipynb
-├── DB0201EN-Week3-1-3-SQLmagic_SQlite.ipynb
-├── DB0201EN-Week3-1-4-Analyzing_SQLite.ipynb
-├── DB0201EN-Week4-1-1-RealDataPractice-v5_sqlite_Learner.ipynb
-└── README.md
-```
+</td>
+</tr>
+</table>
 
 <h1 align="center"><i>Overall Summary</i></h1>
 
